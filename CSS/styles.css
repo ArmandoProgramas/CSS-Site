@@ -1,0 +1,161 @@
+
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+    font-size: 1.5rem;
+}
+
+h1{
+    margin-top: 50px;
+    font-family: 'Pattaya', sans-serif;
+    font-size: 5.625rem;
+    margin-bottom: 0px;
+    color: #66BFBF;
+}
+
+h2{
+    margin-top: 0;
+    font-family: 'Roboto', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+}
+h3{
+    font-family: 'Roboto', sans-serif;
+    color: #11999E;
+}
+
+p{
+    line-height: 2;
+}
+
+.top-container{
+    background-color: #f1f6f9;
+    position: relative;
+    padding-top: 100px;
+    
+}
+.middle-container{
+   
+}
+
+.top-cloud{
+    position: absolute;
+    right: 500px;
+    top: 50px;
+}
+.bottom-cloud{
+    position: absolute;
+    top: 350px;
+    left: 500px;
+}
+
+
+
+span{
+    text-decoration: underline;
+}
+
+a{
+    color: #11999E;
+    font-family: 'Nunito', sans-serif;
+    margin: 10px 20px;
+
+}
+
+.dinosaur-text{
+    font-weight: normal;
+}
+.skill-row{
+    width: 50%;
+    margin: 70px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.Customer_Service{
+    
+    width: 20%;
+    margin-right: 30px;
+    float: left;
+    
+}
+.Tech_Support{
+    width: 20%;
+    float: right;
+    margin-left: 30px;
+}
+.my-foto{
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #EAF6F6;
+    border-width: 8px;
+    width: 5%;
+    
+}
+.skills{
+    margin-top: 50px;
+}
+.contact-me{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.name-surname{
+    color: #EAF6F6;
+    font-size: 1rem;
+    position:relative;
+    top: 10px;
+}
+.bottom-container{
+    background-color: #66BFBF;
+    margin-top: 50px;
+}
+.footer-link{
+    position: relative;
+    top: 20px;
+}
+.creditos-autor{
+    font-size: 1rem;
+}
+.my-description{
+    width: 30%;
+    margin: auto;
+}
+.BUTTON_XUS {
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    color: #FFFFFF;
+    font-family: sans-serif;
+    font-size: 21px;
+    font-weight: 100;
+    padding: 15px;
+    background-color: #2ABBBB;
+    -webkit-box-shadow: 1px 1px 20px 0 #000000;
+    -moz-box-shadow: 1px 1px 20px 0 #000000;
+    box-shadow: 1px 1px 20px 0 #000000;
+    text-shadow: 1px 1px 20px #000000;
+    border: solid #66BFBF 0;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+ 
+ .BUTTON_XUS:hover {
+    border: solid #0CAB9C 1px;
+    background: #0CAB9C;
+    background-image: -webkit-linear-gradient(top, #0CAB9C, #0CAB9C);
+    background-image: -moz-linear-gradient(top, #0CAB9C, #0CAB9C);
+    background-image: -ms-linear-gradient(top, #0CAB9C, #0CAB9C);
+    background-image: -o-linear-gradient(top, #0CAB9C, #0CAB9C);
+    background-image: -webkit-gradient(to bottom, #0CAB9C, #0CAB9C);
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    text-decoration: none;
+ }
